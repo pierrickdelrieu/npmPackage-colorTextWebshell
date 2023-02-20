@@ -19,7 +19,7 @@ printWithColor("Hello World", "white");
 ```
 
 The result is :  
-![Demo](./demo.png)
+![Result](https://github.com/pierrickdelrieu/pic_vulnerable/blob/main/demo.png)
 
 
 
