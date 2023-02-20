@@ -1,0 +1,16 @@
+{
+    "name": "pic_vulnerable",
+    "version": "1.0.5",
+    "description": "This package is a vulnerable package and is created for educational purposes.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "test",
+        "vulnerable",
+        "local webshell"
+    ],
+    "author": "Pierrick Delrieu",
+    "license": "ISC"
+}
