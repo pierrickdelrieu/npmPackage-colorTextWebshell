@@ -1,6 +1,6 @@
 {
     "name": "pic_vulnerable",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "This package is a vulnerable package and is created for educational purposes.",
     "main": "index.js",
     "scripts": {
