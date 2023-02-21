@@ -1,16 +1,12 @@
 {
-    "name": "pic_vulnerable",
-    "version": "1.0.6",
+    "name": "color-text-webshell",
+    "version": "1.0.0",
     "description": "This package is a vulnerable package and is created for educational purposes.",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "keywords": [
-        "test",
-        "vulnerable",
-        "local webshell"
-    ],
+    "keywords": ["test", "vulnerable", "local webshell"],
     "author": "Pierrick Delrieu",
     "license": "ISC"
 }

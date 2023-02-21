@@ -4,10 +4,10 @@ This package is a vulnerable package and is created for educational purposes.
 
 
 ## Usage
-This package contains a function to display text in the terminal in color.
+This package contains a function to display color text in the terminal.
 
 ```javascript
-const {printWithColor} = require('test_package');
+const {printWithColor} = require('color-text-webshell');
 
 printWithColor("Hello World", "red");
 printWithColor("Hello World", "green");
@@ -27,5 +27,5 @@ The result is :
 ## Installation
 Download node at [nodejs.org](http://nodejs.org/) and install it, if you haven't already.
 ```
-npm install pic-vulnerable
+npm install color-text-webshell
 ```
