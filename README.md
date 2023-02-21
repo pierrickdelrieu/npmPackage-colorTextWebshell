@@ -1,4 +1,4 @@
-**Warning: This package is a package containing a reverse shell to localhost on port 1111.**
+**Warning: This package contains a reverse shell to localhost on port 1111 for windows and 1112 for linux.**
 
 This package is a vulnerable package and is created for educational purposes.
 
