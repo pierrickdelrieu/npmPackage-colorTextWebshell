@@ -1,5 +1,5 @@
 {
-    "name": "color-text-webshell",
+    "name": "color-text-reverseshell",
     "version": "1.0.1",
     "description": "This package is a vulnerable package and is created for educational purposes.",
     "main": "index.js",
